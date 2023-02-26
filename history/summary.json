@@ -1,22 +1,60 @@
 [
   {
-    "name": "HeimV",
+    "name": "heimv-main",
     "url": "https://app.heimv.ch/stiftung-pfadiheime/",
     "icon": "https://icons.duckduckgo.com/ip3/app.heimv.ch.ico",
-    "slug": "heim-v",
+    "slug": "heimv-main",
     "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
-    "time": 84,
-    "timeDay": 84,
-    "timeWeek": 84,
-    "timeMonth": 84,
-    "timeYear": 84,
+    "uptime": "8.85%",
+    "uptimeDay": "8.85%",
+    "uptimeWeek": "8.85%",
+    "uptimeMonth": "8.85%",
+    "uptimeYear": "8.85%",
+    "time": 50,
+    "timeDay": 50,
+    "timeWeek": 50,
+    "timeMonth": 50,
+    "timeYear": 50,
     "dailyMinutesDown": {
-      "2023-02-26": 5
+      "2023-02-26": 0
+    }
+  },
+  {
+    "name": "heimv-stgeorg",
+    "url": "https://heimv.pfadi-heime.ch/",
+    "icon": "https://icons.duckduckgo.com/ip3/heimv.pfadi-heime.ch.ico",
+    "slug": "heimv-stgeorg",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1265,
+    "timeDay": 1265,
+    "timeWeek": 1265,
+    "timeMonth": 1265,
+    "timeYear": 1265,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "heimv-demo",
+    "url": "https://demo.heimv.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/demo.heimv.ch.ico",
+    "slug": "heimv-demo",
+    "status": "down",
+    "uptime": "18.83%",
+    "uptimeDay": "18.83%",
+    "uptimeWeek": "18.83%",
+    "uptimeMonth": "18.83%",
+    "uptimeYear": "18.83%",
+    "time": 110,
+    "timeDay": 110,
+    "timeWeek": 110,
+    "timeMonth": 110,
+    "timeYear": 110,
+    "dailyMinutesDown": {
+      "2023-02-26": 0
     }
   }
 ]
