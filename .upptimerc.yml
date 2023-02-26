@@ -1,11 +1,16 @@
 # Change these first
 owner: diegosteiner
 repo: heimv-monitor
+user-agent: github-action
 
 sites:
-  - name: HeimV
+  - name: heimv-main
     url: https://app.heimv.ch/stiftung-pfadiheime/
-    maxResponseTime: 5000
+    # maxResponseTime: 5000
+  - name: heimv-stgeorg
+    url: https://heimv.pfadi-heime.ch/
+  - name: heimv-demo
+    url: https://demo.heimv.ch
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,8 +19,8 @@ status-website:
   baseUrl: /heimv-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: HeimV Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: ""
+  introMessage: ""
   navbar:
     - title: Status
       href: /
