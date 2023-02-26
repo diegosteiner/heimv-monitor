@@ -4,19 +4,19 @@
     "url": "https://app.heimv.ch/stiftung-pfadiheime/",
     "icon": "https://icons.duckduckgo.com/ip3/app.heimv.ch.ico",
     "slug": "heimv-main",
-    "status": "down",
-    "uptime": "3.99%",
-    "uptimeDay": "3.99%",
-    "uptimeWeek": "3.99%",
-    "uptimeMonth": "3.99%",
-    "uptimeYear": "3.99%",
-    "time": 50,
-    "timeDay": 50,
-    "timeWeek": 50,
-    "timeMonth": 50,
-    "timeYear": 50,
+    "status": "up",
+    "uptime": "50.98%",
+    "uptimeDay": "50.98%",
+    "uptimeWeek": "50.98%",
+    "uptimeMonth": "50.98%",
+    "uptimeYear": "50.98%",
+    "time": 663,
+    "timeDay": 663,
+    "timeWeek": 663,
+    "timeMonth": 663,
+    "timeYear": 663,
     "dailyMinutesDown": {
-      "2023-02-26": 0
+      "2023-02-26": 7
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://demo.heimv.ch",
     "icon": "https://icons.duckduckgo.com/ip3/demo.heimv.ch.ico",
     "slug": "heimv-demo",
-    "status": "down",
-    "uptime": "5.87%",
-    "uptimeDay": "5.87%",
-    "uptimeWeek": "5.87%",
-    "uptimeMonth": "5.87%",
-    "uptimeYear": "5.87%",
-    "time": 110,
-    "timeDay": 110,
-    "timeWeek": 110,
-    "timeMonth": 110,
-    "timeYear": 110,
+    "status": "up",
+    "uptime": "51.22%",
+    "uptimeDay": "51.22%",
+    "uptimeWeek": "51.22%",
+    "uptimeMonth": "51.22%",
+    "uptimeYear": "51.22%",
+    "time": 589,
+    "timeDay": 589,
+    "timeWeek": 589,
+    "timeMonth": 589,
+    "timeYear": 589,
     "dailyMinutesDown": {
-      "2023-02-26": 0
+      "2023-02-26": 7
     }
   }
 ]
