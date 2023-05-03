@@ -4,10 +4,10 @@
     "url": "https://app.heimv.ch/stiftung-pfadiheime/",
     "icon": "https://icons.duckduckgo.com/ip3/app.heimv.ch.ico",
     "slug": "heimv-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2189,
@@ -16,6 +16,7 @@
     "timeMonth": 2275,
     "timeYear": 2189,
     "dailyMinutesDown": {
+      "2023-05-03": 2,
       "2023-03-13": 34,
       "2023-02-26": 7
     }
@@ -25,10 +26,10 @@
     "url": "https://heimv.pfadi-heime.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/heimv.pfadi-heime.ch.ico",
     "slug": "heimv-stgeorg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1151,
@@ -37,6 +38,7 @@
     "timeMonth": 1161,
     "timeYear": 1151,
     "dailyMinutesDown": {
+      "2023-05-03": 1,
       "2023-02-28": 15
     }
   },
