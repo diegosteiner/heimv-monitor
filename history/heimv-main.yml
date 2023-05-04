@@ -1,7 +1,7 @@
 url: https://app.heimv.ch/stiftung-pfadiheime/
-status: down
-code: 502
-responseTime: 1542
-lastUpdated: 2023-05-04T18:05:22.533Z
+status: up
+code: 200
+responseTime: 1037
+lastUpdated: 2023-05-04T18:23:15.346Z
 startTime: Sun Feb 26 2023 13:19:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
