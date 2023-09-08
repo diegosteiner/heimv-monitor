@@ -1,7 +1,7 @@
 url: https://heimv.pfadi-heime.ch/
-status: up
-code: 200
-responseTime: 1334
-lastUpdated: 2023-09-07T23:03:25.869Z
+status: down
+code: 503
+responseTime: 542
+lastUpdated: 2023-09-08T20:48:57.905Z
 startTime: 2023-02-26T13:19:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
