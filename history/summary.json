@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.heimv.ch.ico",
     "slug": "heimv-main",
     "status": "up",
-    "uptime": "88.01%",
+    "uptime": "88.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.62%",
-    "uptimeYear": "88.01%",
-    "time": 1309,
-    "timeDay": 881,
-    "timeWeek": 841,
-    "timeMonth": 830,
-    "timeYear": 1309,
+    "uptimeMonth": "91.20%",
+    "uptimeYear": "88.08%",
+    "time": 1307,
+    "timeDay": 612,
+    "timeWeek": 756,
+    "timeMonth": 871,
+    "timeYear": 1307,
     "dailyMinutesDown": {
       "2024-01-28": 982,
       "2024-01-27": 1440,
@@ -67,8 +67,7 @@
       "2023-10-13": 16,
       "2023-09-08": 92,
       "2023-05-04": 18,
-      "2023-03-13": 34,
-      "2023-02-26": 7
+      "2023-03-13": 34
     }
   },
   {
@@ -82,11 +81,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 1025,
-    "timeDay": 740,
-    "timeWeek": 799,
-    "timeMonth": 876,
-    "timeYear": 1025,
+    "time": 1024,
+    "timeDay": 762,
+    "timeWeek": 762,
+    "timeMonth": 859,
+    "timeYear": 1024,
     "dailyMinutesDown": {
       "2023-11-22": 28,
       "2023-10-23": 246,
@@ -104,16 +103,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.heimv.ch.ico",
     "slug": "heimv-demo",
     "status": "up",
-    "uptime": "87.47%",
+    "uptime": "87.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.12%",
-    "uptimeMonth": "83.01%",
-    "uptimeYear": "87.47%",
-    "time": 854,
-    "timeDay": 551,
-    "timeWeek": 583,
-    "timeMonth": 609,
-    "timeYear": 854,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "89.58%",
+    "uptimeYear": "87.54%",
+    "time": 853,
+    "timeDay": 651,
+    "timeWeek": 651,
+    "timeMonth": 637,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2024-02-18": 260,
       "2024-02-17": 131,
@@ -182,8 +181,7 @@
       "2023-05-04": 17,
       "2023-04-23": 32,
       "2023-04-17": 32,
-      "2023-02-28": 42,
-      "2023-02-26": 7
+      "2023-02-28": 42
     }
   }
 ]
