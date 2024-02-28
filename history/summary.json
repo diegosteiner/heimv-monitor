@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.heimv.ch.ico",
     "slug": "heimv-main",
     "status": "up",
-    "uptime": "88.11%",
+    "uptime": "88.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.49%",
+    "uptimeMonth": "97.77%",
     "uptimeYear": "88.10%",
     "time": 1306,
-    "timeDay": 743,
-    "timeWeek": 750,
-    "timeMonth": 894,
-    "timeYear": 1306,
+    "timeDay": 1231,
+    "timeWeek": 814,
+    "timeMonth": 932,
+    "timeYear": 1304,
     "dailyMinutesDown": {
       "2024-01-28": 982,
       "2024-01-27": 1440,
@@ -76,15 +76,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/heimv.pfadi-heime.ch.ico",
     "slug": "heimv-stgeorg",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 1024,
-    "timeDay": 826,
-    "timeWeek": 757,
-    "timeMonth": 862,
+    "timeDay": 1030,
+    "timeWeek": 809,
+    "timeMonth": 870,
     "timeYear": 1022,
     "dailyMinutesDown": {
       "2023-11-22": 28,
@@ -93,8 +93,7 @@
       "2023-10-16": 246,
       "2023-10-15": 191,
       "2023-09-08": 92,
-      "2023-05-04": 18,
-      "2023-02-28": 15
+      "2023-05-04": 18
     }
   },
   {
@@ -103,16 +102,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.heimv.ch.ico",
     "slug": "heimv-demo",
     "status": "up",
-    "uptime": "87.57%",
+    "uptime": "87.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.87%",
+    "uptimeMonth": "96.16%",
     "uptimeYear": "87.56%",
     "time": 853,
-    "timeDay": 701,
-    "timeWeek": 616,
-    "timeMonth": 656,
-    "timeYear": 854,
+    "timeDay": 914,
+    "timeWeek": 671,
+    "timeMonth": 680,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2024-02-18": 260,
       "2024-02-17": 131,
@@ -180,8 +179,7 @@
       "2023-05-17": 279,
       "2023-05-04": 17,
       "2023-04-23": 32,
-      "2023-04-17": 32,
-      "2023-02-28": 42
+      "2023-04-17": 32
     }
   }
 ]
