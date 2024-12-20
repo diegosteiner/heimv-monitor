@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.heimv.ch.ico",
     "slug": "heimv-main",
     "status": "up",
-    "uptime": "93.43%",
+    "uptime": "93.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.85%",
-    "time": 943,
-    "timeDay": 1175,
-    "timeWeek": 1140,
-    "timeMonth": 1068,
-    "timeYear": 896,
+    "uptimeYear": "89.12%",
+    "time": 944,
+    "timeDay": 1199,
+    "timeWeek": 1130,
+    "timeMonth": 1059,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2024-09-12": 19,
       "2024-08-21": 16,
@@ -55,8 +55,7 @@
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
-      "2023-12-22": 1440,
-      "2023-12-21": 1440
+      "2023-12-22": 1440
     }
   },
   {
@@ -65,16 +64,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/heimv.pfadi-heime.ch.ico",
     "slug": "heimv-stgeorg",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 963,
-    "timeDay": 982,
-    "timeWeek": 883,
-    "timeMonth": 967,
-    "timeYear": 930,
+    "timeDay": 784,
+    "timeWeek": 873,
+    "timeMonth": 956,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2024-12-04": 25,
       "2024-12-03": 43
@@ -86,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.heimv.ch.ico",
     "slug": "heimv-demo",
     "status": "up",
-    "uptime": "91.66%",
+    "uptime": "91.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.51%",
-    "uptimeYear": "86.04%",
+    "uptimeYear": "86.32%",
     "time": 697,
     "timeDay": 847,
-    "timeWeek": 786,
-    "timeMonth": 735,
-    "timeYear": 640,
+    "timeWeek": 812,
+    "timeMonth": 727,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2024-12-01": 192,
       "2024-11-30": 317,
@@ -202,8 +201,7 @@
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
-      "2023-12-22": 1440,
-      "2023-12-21": 1440
+      "2023-12-22": 1440
     }
   }
 ]
