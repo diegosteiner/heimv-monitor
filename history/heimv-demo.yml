@@ -1,7 +1,7 @@
 url: https://demo.heimv.ch
-status: down
-code: 503
-responseTime: 500
-lastUpdated: 2025-01-12T23:03:35.411Z
+status: up
+code: 200
+responseTime: 1577
+lastUpdated: 2025-01-13T03:04:38.662Z
 startTime: 2023-02-26T13:19:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
