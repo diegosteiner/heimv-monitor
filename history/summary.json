@@ -158,23 +158,23 @@
     "url": "https://heimv.pfadi-heime.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/heimv.pfadi-heime.ch.ico",
     "slug": "heimv-stgeorg",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
-    "time": 1432,
-    "timeDay": 1365,
-    "timeWeek": 1788,
-    "timeMonth": 2229,
-    "timeYear": 1470,
+    "time": 1439,
+    "timeDay": 2366,
+    "timeWeek": 2075,
+    "timeMonth": 2290,
+    "timeYear": 1478,
     "dailyMinutesDown": {
       "2025-09-24": 17,
       "2026-01-14": 17,
       "2026-03-29": 16,
       "2026-08-31": 61,
-      "2026-09-14": 0
+      "2026-09-14": 10
     }
   }
 ]
