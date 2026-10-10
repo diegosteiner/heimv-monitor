@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.heimv.ch.ico",
     "slug": "heimv-main",
     "status": "down",
-    "uptime": "86.54%",
+    "uptime": "86.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.97%",
-    "time": 506,
-    "timeDay": 42,
-    "timeWeek": 50,
-    "timeMonth": 50,
-    "timeYear": 124,
+    "uptimeYear": "64.24%",
+    "time": 504,
+    "timeDay": 33,
+    "timeWeek": 51,
+    "timeMonth": 47,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2026-02-17": 769,
       "2026-02-16": 1440,
@@ -145,8 +145,7 @@
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
-      "2025-10-11": 1440,
-      "2025-10-10": 1440
+      "2025-10-11": 1440
     }
   },
   {
@@ -160,10 +159,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1437,
-    "timeDay": 1384,
-    "timeWeek": 1699,
-    "timeMonth": 1984,
+    "time": 1438,
+    "timeDay": 1699,
+    "timeWeek": 1746,
+    "timeMonth": 1964,
     "timeYear": 1529,
     "dailyMinutesDown": {
       "2026-01-14": 17,
